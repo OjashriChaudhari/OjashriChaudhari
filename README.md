@@ -1,7 +1,7 @@
-[![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)[(https://OjashriChaudhari.io)
+
 <h1 align="center">Hi 👋, I'm Ojashri Chaudhari</h1>
-<h3 align="center">A passionate MERN STACk Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<h3 align="center">A passionate MERN STACK Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojashrichaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="ojashrichaudhari" /> </p>
 
