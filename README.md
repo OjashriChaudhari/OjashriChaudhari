@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojashrichaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="ojashrichaudhari" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK , JavaScript , JAVA**
+- 🌱 I’m currently learning **MERN STACK , JavaScript , React**
 
 - 📫 How to reach me **ojashrichaudhari4@gmail.com**
 
